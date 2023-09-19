@@ -1,5 +1,7 @@
 # P2P-Crypto-Network
 
+Language Used: Javascript, Node Js
+
 Functional Requirements:
 1. Building Blockchain
 2. Creating Transaction
